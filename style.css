@@ -25,9 +25,14 @@ body {
     background-color:white;
 }
 
+input.tb ,select {
+    width: 500px;
+    height: 30px;
+}
+
 .tb {
     margin-top:auto;
-    margin-bottom: auto;
+    margin-bottom:auto;
     margin-left: 0px;
     margin-right: 0px;
     border-radius: 5px;
@@ -41,7 +46,12 @@ body {
     display: block;
 }
 
-textarea ,button {
+textarea {
+    width: 500px;
+    border-radius: 10px;
+}
+
+button {
     border-radius: 10px;
 }
 
