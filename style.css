@@ -36,6 +36,16 @@ body {
     display: block;
 }
 
-.fl {
+
+
+/* .fl {
     float:left;
+} */
+
+.ta{
+    text-align: left;
 }
+
+/* .left {
+    margin-right:auto;
+} */
