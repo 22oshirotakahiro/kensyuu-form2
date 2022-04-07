@@ -30,10 +30,19 @@ body {
     margin-bottom: auto;
     margin-left: 0px;
     margin-right: 0px;
+    border-radius: 5px;
 }
 
-.cb {
+.pulldown {
+    border-radius: 5px;
+}
+
+.checkbox {
     display: block;
+}
+
+textarea ,button {
+    border-radius: 10px;
 }
 
 label.required:after{
