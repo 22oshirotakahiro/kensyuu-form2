@@ -15,6 +15,7 @@ body {
 }
 
 .form {
+    float:left;
     width:600px;
     height:900px;
     padding:10px;
@@ -34,8 +35,4 @@ body {
 
 .cb {
     display: block;
-}
-
-.btn {
-    float:left;
 }
